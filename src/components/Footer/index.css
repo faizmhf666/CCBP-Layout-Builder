@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.container {
+  background-color: #cbd5e1;
+  display: flex;
+  justify-content: center;
+  margin: 40px 20px 40px 190px;
+  width: 1200px;
+  padding: 12px;
+}

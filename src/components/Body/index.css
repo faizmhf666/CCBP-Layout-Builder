@@ -1,0 +1,41 @@
+.body-container {
+  display: flex;
+  justify-content: center;
+  margin: 10px 20px 10px 20px;
+}
+.menu-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+  background-color: #cbd5e1;
+  height: 360px;
+  width: 240px;
+  padding: 10px;
+}
+.menu-heading {
+  font-size: medium;
+  padding: 10px;
+  align-self: center;
+}
+.list-container {
+  align-self: center;
+  justify-content: flex-start;
+}
+.list-item {
+  list-style: none;
+}
+.ad-container {
+  border: 1px solid #64748b;
+  margin: 18px;
+  display: flex;
+  justify-content: center;
+}
+.content-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #e2e8f0;
+  padding: 40px;
+  width: 720px;
+}

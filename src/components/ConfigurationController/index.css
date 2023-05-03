@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.layout-container {
+  background-color: #475569;
+  height: 10vh;
+  padding: 8em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #ffffff;
+}
